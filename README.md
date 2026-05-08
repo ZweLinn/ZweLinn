@@ -9,7 +9,7 @@
 - 🔭 Currently building full-stack web applications
 - 🌱 Always exploring the latest in **React & Laravel ecosystems**
 - 💬 Ask me about **Next.js, Node.js, Laravel or PostgreSQL**
-- 📫 Reach me at: **zwelinnmg@email.com**
+- 📫 Reach me at: **zewlinnmg@email.com**
 - ⚡ I love clean code, good architecture and strong coffee ☕
 
 ---
@@ -40,26 +40,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-
-
-
-  
-  
-
-
-
-
-
-
-
-  
-
-
-
-
----
 
 ## 🤝 Connect with me
 
