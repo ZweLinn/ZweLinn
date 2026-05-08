@@ -1,4 +1,4 @@
-# Hi there, I'm a Full Stack Developer 👋
+# Hi there, I'm Zwe Linn Maung 👋
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=500&lines=Full+Stack+Developer;React+%26+Next.js+Enthusiast;Laravel+%2B+Node.js+Backend+Dev;Always+learning+new+things+%F0%9F%9A%80)
 
